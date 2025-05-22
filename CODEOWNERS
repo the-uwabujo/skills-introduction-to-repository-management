@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @the-uwabujo
+/src/backend/database.py      @the-uwabujo
+/src/backend/routers/auth.py  @the-uwabujo
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @the-uwabujo
